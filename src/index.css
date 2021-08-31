@@ -1,0 +1,104 @@
+body {
+  margin: 100;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('star.jpeg');
+}
+
+.title {
+ 
+  border-width: medium;
+  border-style: solid;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 20%;
+  height: 80px;
+  padding: 20px;
+  margin-top: 40px;
+  display:inline-block;
+  font-size: 22px;
+}
+.type {
+
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 20%;
+  margin-top: 10px;
+  font-size: 16px;
+}
+.Human{
+    color: #FFE81F;
+    border-color: #FFE81F;
+}
+.Droid{
+
+  color: blue;
+  border-color: blue;
+
+}
+.soleUser{
+  color: white;
+  
+  margin: auto;
+  text-align: center;
+  height: 70%;
+  width: 90%;
+}
+.backArrow{
+  border-width: medium;
+  border-style: solid;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  margin: auto;
+
+  height: 32px;
+  padding: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+  display:inline-block;
+  font-size: 22px;
+  color: orange;
+  
+}
+.noBorder{
+  border: none;
+  color: blueviolet;
+  font-size: 36px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.bigTitle{
+  color: white;
+  font-size: 52;
+  margin: auto;
+  text-align: center;
+  width: auto;
+  
+  
+}
+
+.search{
+ width:"20rem";
+ background: black;
+ color: #FFE81F;
+ border:"none";
+padding:"0.5rem";
+margin-left: 200px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.category{
+  display:inline-block;
+  color: aqua;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
